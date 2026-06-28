@@ -11,7 +11,7 @@ This project is designed to showcase basic web development skills with a modern 
 - Clean and beginner-friendly UI
 
 ## 🚀 Live Demo
-[Click here]()
+[Click here](https://htmlcss-weblandingpage.netlify.app)
 
 ## 👩‍💻 Author
 **Mansi Agrawal**
